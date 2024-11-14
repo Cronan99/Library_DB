@@ -34,7 +34,7 @@ create table publisher
 create table genre
 (
 	genre_id int primary key auto_increment,
-	genre_name varchar(50)
+	genre_name varchar(50) not null
 );
 
 create table book_genre
