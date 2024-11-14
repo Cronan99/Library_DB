@@ -67,7 +67,8 @@ insert into genre (genre_name)
 		("Dystopian"),
 		("Science Fiction"),
 		("Thriller"),
-		("Mystery");
+		("Mystery"),
+		("Classic");
 	
 insert into publisher (publisher_name, location)
 	values("Penguin Books", "New York"),
